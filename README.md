@@ -1,1 +1,1 @@
-"# frontend-designs-2- Responsive design"
+"# frontend-designs-2- Responsive design (Bondi)"
